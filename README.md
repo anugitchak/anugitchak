@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anubrati Chakraborty</h1>
 <h3 align="center">Programmer is a tool for converting caffeing into Code</h3>
 
-- 📫 How to reach me **karateanu122gmail.com**
+- 📫 How to reach me **karateanu12@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
